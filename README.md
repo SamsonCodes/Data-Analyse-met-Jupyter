@@ -1,5 +1,5 @@
 # Data-Analyse-met-Jupyter
-Een Data Analyse met Jupyter Tutorial voor Beginners.
+Een Data Analyse Tutorial met Jupyter voor Beginners.
 
 Om deze tutorial te kunnen volgen heb je Jupyter Notebook nodig (duh!) en moet je weten hoe je er cellen in kunt runnen. Daarnaast heb je ook een aantal libraries nodig:
  - numpy
