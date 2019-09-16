@@ -9,9 +9,9 @@ Om deze tutorial te kunnen volgen heb je Jupyter Notebook nodig (duh!) en moet j
  
 Heb je Jupyter Notebook en deze libraries nog niet dan kun je bijvoorbeeld via https://www.anaconda.com/distribution/ het Anaconda pakket voor Data Science downloaden.
 
-Voor een basis tutorial voor het werken met Jupyter, kijk bijvoorbeeld hier: https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+Voor een basis tutorial voor het werken met Jupyter, kijk bijvoorbeeld eens hier: https://www.youtube.com/watch?v=jZ952vChhuI
 
-En/of hier: https://www.youtube.com/watch?v=HW29067qVWk
+Of doe niet zo lui en google gewoon zelf naar de informatie die je nodig hebt. Geen smoesjes. Het internet is er voor jou!
 
 Kopieer de folder naar je systeem en open *Data Analyse met Jupyter.ipynb* om te beginnen.
 
