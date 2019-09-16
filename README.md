@@ -1,5 +1,5 @@
 # Data-Analyse-met-Jupyter
-Een tutorial voor beginners voor Data Analyse met Jupyter Notebook.
+Een Data Analyse met Jupyter Tutorial voor Beginners.
 
 Om deze tutorial te kunnen volgen heb je Jupyter Notebook nodig (duh!) en moet je weten hoe je er cellen in kunt runnen. Daarnaast heb je ook een aantal libraries nodig:
  - numpy
@@ -7,7 +7,7 @@ Om deze tutorial te kunnen volgen heb je Jupyter Notebook nodig (duh!) en moet j
  - matplotlib
  - seaborn
  
-Heb je Jupyter en deze libraries nog niet dan kun je via https://www.anaconda.com/distribution/ het Anaconda pakket voor Data Science downloaden inclusief Jupyter Notebook en de relevante libraries.
+Heb je Jupyter Notebook en deze libraries nog niet dan kun je bijvoorbeeld via https://www.anaconda.com/distribution/ het Anaconda pakket voor Data Science downloaden.
 
 Voor een basis tutorial voor het werken met Jupyter, kijk bijvoorbeeld hier: https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 
