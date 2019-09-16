@@ -7,7 +7,7 @@ Om deze tutorial te kunnen volgen heb je Jupyter Notebook nodig (duh!) en moet j
  - matplotlib
  - seaborn
  
-Is dat niet het geval dan kun je via https://www.anaconda.com/distribution/ het Anaconda pakket voor Data Science downloaden inclusief Jupyter Notebook en de relevante libraries.
+Heb je Jupyter en deze libraries nog niet dan kun je via https://www.anaconda.com/distribution/ het Anaconda pakket voor Data Science downloaden inclusief Jupyter Notebook en de relevante libraries.
 
 Voor een basis tutorial voor het werken met Jupyter, kijk bijvoorbeeld hier: https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 
